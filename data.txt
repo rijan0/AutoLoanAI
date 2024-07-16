@@ -1,0 +1,179 @@
+User 1:
+Land Number: 1001
+Tax Payment Status: paid
+PAN Number: ABCP1234F
+Annual Income: 600000
+Income Tax Payment Status: paid
+Rate per Dhur: 5000
+Total Area in Dhur: 10.5
+
+User 2:
+Land Number: 1002
+Tax Payment Status: not paid
+PAN Number: XYZQ5678G
+Annual Income: 400000
+Income Tax Payment Status: paid
+Rate per Dhur: 6000
+Total Area in Dhur: 15.0
+
+User 3:
+Land Number: 1003
+Tax Payment Status: paid
+PAN Number: MNOP4321H
+Annual Income: 800000
+Income Tax Payment Status: not paid
+Rate per Dhur: 4500
+Total Area in Dhur: 12.0
+
+User 4:
+Land Number: 1004
+Tax Payment Status: paid
+PAN Number: WXYZ5678I
+Annual Income: 700000
+Income Tax Payment Status: paid
+Rate per Dhur: 5500
+Total Area in Dhur: 8.5
+
+User 5:
+Land Number: 1005
+Tax Payment Status: paid
+PAN Number: LMNO9012J
+Annual Income: 450000
+Income Tax Payment Status: paid
+Rate per Dhur: 4800
+Total Area in Dhur: 20.0
+
+User 6:
+Land Number: 1006
+Tax Payment Status: not paid
+PAN Number: PQRZ3456K
+Annual Income: 300000
+Income Tax Payment Status: paid
+Rate per Dhur: 4000
+Total Area in Dhur: 18.0
+
+User 7:
+Land Number: 1007
+Tax Payment Status: paid
+PAN Number: STUV7890L
+Annual Income: 650000
+Income Tax Payment Status: paid
+Rate per Dhur: 5200
+Total Area in Dhur: 14.5
+
+User 8:
+Land Number: 1008
+Tax Payment Status: paid
+PAN Number: ABCD1234E
+Annual Income: 900000
+Income Tax Payment Status: paid
+Rate per Dhur: 6000
+Total Area in Dhur: 25.0
+
+User 9:
+Land Number: 1009
+Tax Payment Status: not paid
+PAN Number: XYZA5678B
+Annual Income: 350000
+Income Tax Payment Status: paid
+Rate per Dhur: 4500
+Total Area in Dhur: 10.0
+
+User 10:
+Land Number: 1010
+Tax Payment Status: paid
+PAN Number: MNOB4321C
+Annual Income: 750000
+Income Tax Payment Status: not paid
+Rate per Dhur: 5800
+Total Area in Dhur: 16.0
+
+User 11:
+Land Number: 1011
+Tax Payment Status: paid
+PAN Number: WXYZ5678D
+Annual Income: 550000
+Income Tax Payment Status: paid
+Rate per Dhur: 5100
+Total Area in Dhur: 12.5
+
+User 12:
+Land Number: 1012
+Tax Payment Status: not paid
+PAN Number: LMNO9012E
+Annual Income: 400000
+Income Tax Payment Status: paid
+Rate per Dhur: 4800
+Total Area in Dhur: 22.0
+
+User 13:
+Land Number: 1013
+Tax Payment Status: paid
+PAN Number: PQRZ3456F
+Annual Income: 680000
+Income Tax Payment Status: paid
+Rate per Dhur: 5400
+Total Area in Dhur: 17.5
+
+User 14:
+Land Number: 1014
+Tax Payment Status: not paid
+PAN Number: STUV7890G
+Annual Income: 420000
+Income Tax Payment Status: paid
+Rate per Dhur: 4600
+Total Area in Dhur: 14.0
+
+User 15:
+Land Number: 1015
+Tax Payment Status: paid
+PAN Number: ABCD1234H
+Annual Income: 800000
+Income Tax Payment Status: not paid
+Rate per Dhur: 6200
+Total Area in Dhur: 18.5
+
+User 16:
+Land Number: 1016
+Tax Payment Status: paid
+PAN Number: XYZA5678I
+Annual Income: 600000
+Income Tax Payment Status: paid
+Rate per Dhur: 5800
+Total Area in Dhur: 21.0
+
+User 17:
+Land Number: 1017
+Tax Payment Status: not paid
+PAN Number: MNOB4321J
+Annual Income: 380000
+Income Tax Payment Status: paid
+Rate per Dhur: 4300
+Total Area in Dhur: 12.0
+
+User 18:
+Land Number: 1018
+Tax Payment Status: paid
+PAN Number: WXYZ5678K
+Annual Income: 720000
+Income Tax Payment Status: paid
+Rate per Dhur: 5500
+Total Area in Dhur: 16.5
+
+User 19:
+Land Number: 1019
+Tax Payment Status: paid
+PAN Number: LMNO9012L
+Annual Income: 850000
+Income Tax Payment Status: not paid
+Rate per Dhur: 6400
+Total Area in Dhur: 19.0
+
+User 20:
+Land Number: 1020
+Tax Payment Status: not paid
+PAN Number: PQRZ3456M
+Annual Income: 500000
+Income Tax Payment Status: paid
+Rate per Dhur: 5000
+Total Area in Dhur: 23.0
